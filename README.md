@@ -18,4 +18,4 @@ version-number: optional argument, defaults to latest
 
 # Demo
 
-This project contains a demo `requirements.txt` file and `plot.py` which will install matplotlib automatically when the container starts, and if `ploy.py` is run a png plot will be created.
+This project contains a demo `requirements.txt` file and `plot.py` which will install matplotlib automatically when the container starts, and, if `ploy.py` is run, a png plot will be created.
