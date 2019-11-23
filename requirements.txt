@@ -1,0 +1,2 @@
+MyApp
+matplotlib>=1.5
