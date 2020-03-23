@@ -1,3 +1,5 @@
+![](./logo.png)
+
 # WaterSnake
 
 This helper utility allows a user to simply type `watersnake [version-number]` and automatically load-up any version of Python inside an isolated Docker container, with the current directory mounted, and requirements.txt installed.   
